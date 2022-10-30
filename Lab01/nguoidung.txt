@@ -1,0 +1,4 @@
+hedspi hedspi2019 0
+hust 123 0
+soict soict2019 1
+tam tamtam 1
